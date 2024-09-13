@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color:rgb(221, 221, 238);
+}
+.main-container{
+    display: flex;
+    justify-content: center;
+}
+.container1{
+    margin:20px 0px;
+    width: 200px;
+    background-color: rgb(72, 78, 78);
+    height: 720px;
+}
+.container2{
+
+    margin:20px 0px;
+    width:400px;
+    background-color: rgb(87, 92, 92);
+}
+h1{
+    padding:20px 0px;
+    color:white;  
+}
+h2{
+    border-bottom: 1px solid rgb(219, 201, 201);
+    box-shadow: 5px 2px 5px;   
+}
+.details{
+    margin-bottom: 10px;
+    width: 300px;
+    background-color:rgb(72, 78, 78);
+    border-radius: 10px;
+    color: white;
+}
+h3{   
+    margin-top: 6px;
+    font-size: 18px;
+}
+ul{
+    font-size: 16px;
+    padding:10px;
+    text-align: left;
+    margin:6px;
+}
+p{
+    font-size: 16px;
+    font-weight: 600; 
+}
+.my-profile{
+    width: 160px;
+    height:160px;
+    background-color: url("digital.jpg");
+    border:1px solid white;
+    border-radius: 50%;
+    margin-top:40px;
+    box-shadow: 1px 1px 2px 2px white;   
+}
+.container1 h3{
+    color:white;
+    border-bottom: 1px solid white;
+    font-size: 20px;
+    margin: 20px 20px;
+    padding-bottom: 5px;
+}
+.container1 p{
+    font-size: 14px;
+    font-weight: 400;
+    color: aliceblue;
+    margin: 0px 10px;
+    
+}
+.pera{
+    font-weight: 100;
+    font-size: 14px;
+}
+#button{
+    background-color: rgb(44, 43, 43);
+    color: white;
+    height: 40px;
+    width: 180px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 10px;
+    border:none;
+    cursor: pointer;
+
+}
+
+
